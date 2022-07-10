@@ -15,8 +15,9 @@ The original code run time for 2017 was approximately 2.55 seconds was shown by 
 
 ![Original Run time 2017](https://github.com/vandenesserm/stock-analysis/blob/main/PNGs/Screenshot%202022-07-08%20Code%20First%20run%202017.png?raw=true)
 
-The original code run time for 2018 was approximately       .
+The original code run time for 2018 was approximately 2.51 seconds.
 
+![Original Run time 2018](https://user-images.githubusercontent.com/106083282/178146482-2cee16e3-a174-423c-9b0e-fe38ddc5eedc.png)
 
 
 
